@@ -8,12 +8,12 @@
       * Tipo    .............. Online
       * Finalidade ........... realizar pesquisa de CEP no VSAM
       *                        "CEPVSA01"
-      *                        Recebe informa‡äes pela commarea
+      *                        Recebe informações pela commarea
       *                        Desenvolvido para atender zCEE
       * DSnames .............. B090290.CEPVSA01
       * JOB def cluster ...... B090290.LIB.JCL(CEPDFCLU)
       * Transacao CICS  ...... KEP0
-      *
+      * Oi
       ******************************************************************
        identification division.
        program-id.    cepcics0.
