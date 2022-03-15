@@ -44,6 +44,7 @@
            CLOSE BINCARD1.
            STOP RUN.
       *
+      * acrescentando uma linha de comentario
        000-PRINT-REGISTRO.
       *
            MOVE FD-BINCARD1-CODIGO   TO WS-BINCARD1-CODIGO
