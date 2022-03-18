@@ -41,7 +41,7 @@
 004100        END-PERFORM.                                              00410015
 004200     CLOSE BINCARD1.                                              00420015
 004300     STOP RUN.                                                    00430015
-004400*                                                                 00440015
+004400* --------------------------------                                00440015
 004500 000-PRINT-REGISTRO.                                              00450015
 004600*                                                                 00460015
 004700     MOVE FD-BINCARD1-CODIGO   TO WS-BINCARD1-CODIGO              00470015
