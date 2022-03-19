@@ -4,7 +4,7 @@
       * Valter Siqueira - Systems                                       00000400
       * Laboratorat¢rio de uso particular ......                        00000500
       * ----------------------------------------------------------------00000600
-      * Sistema .............. CEP                                      00000700
+      * Sistema .............. CEP x                                     00000700
       * Programa.............. CEPBLOAD                                 00000800
       * Tipo    .............. BATCH                                    00000900
       * Finalidade ........... Realizar a carga do arquivos VSAM        00001000
