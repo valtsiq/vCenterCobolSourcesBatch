@@ -7,7 +7,7 @@
 000700   FILE-CONTROL.                                                  00070015
 000800        SELECT BINCARD1 ASSIGN TO 'BIN00001'                      00080015
 000900        ORGANIZATION SEQUENTIAL.                                  00090015
-001000                                                                  00100015
+001000*-------------------------------------------------
 001100 DATA DIVISION.                                                   00110015
 001200   FILE SECTION.                                                  00120015
 001300                                                                  00130015
